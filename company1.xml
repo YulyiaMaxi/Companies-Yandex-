@@ -22,9 +22,7 @@
         <working-time lang="ru">будни 10:00-19:00; выходные 10:00-20:00</working-time>
         //rubric-id рубрика для данного объекта не определена
         <actualization-date>04.07.2023</actualization-date>
-        <photos>
         <photo> gallery-url="http://зоопарк.екатеринбург.рф/animals_infos/"></photo>
-        </photos>
         <coordinates>
             <lon>56.832923</lon>
             <lat>60.620674</lat>
@@ -45,14 +43,35 @@
         <url>http://www.oceanariumrio.ru</url>
         <working-time lang="ru">ежедневно 10:00-22:00</working-time>
         //rubric-id рубрика для данного объекта не определена
-        <actualization-date>04.07.2023</actualization-date>
-        <photos>
-            <photo> gallery-url="http://зоопарк.екатеринбург.рф/animals_infos/"></photo>
-        </photos>
+        <actualization-date>давно не обновлялось</actualization-date>
+            <photo> gallery-url="https://www.oceanariumrio.ru/gallery/"></photo>
         <coordinates>
             <lon>55.910665</lon>
             <lat>37.542632</lat>
         </coordinates>
     </company>
 
+        <company>
+        <company-id>177439196450</company-id>
+        <name lang="eng">Harvest</name>
+        <address lang="ru">г. Санкт-Петербург, просп. Добролюбова, 11Е, этаж 1</address>
+        <country lang="ru">Россия</country>
+        <phone>
+            <info>справка</info>
+            <number>+7(911)922-27-46</number>
+        </phone>
+            <phone>
+            <info>забронировать</info>
+            <number> +7(911)9222746</number>
+            </phone>
+        <url>https://harvestduo.ru</url>
+        <working-time lang="ru">пн, вт, ср, вс 13:00-00:00; пт, сб 13:00-01:00</working-time>
+        //rubric-id рубрика для данного объекта не определена
+        <actualization-date>08.03.2021</actualization-date>
+            <photo> gallery-url="https://www.oceanariumrio.ru/gallery/"></photo>
+        <coordinates>
+            <lon>59.938784</lon>
+            <lat>30.314997</lat>
+        </coordinates>
+    </company>
 </companies>
