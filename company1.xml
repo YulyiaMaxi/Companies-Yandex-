@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<companies>
+    <company>
+        <company-id>1194005908</company-id>
+        <name lang="ru">Екатеринбургский зоопарк</name>
+        <address lang="ru">Свердловская обл.,г. Екатеринбург, ул. Мамина-Сибиряка, д.189</address>
+        <country lang="ru">Россия</country>
+        <phones>
+        <phone>
+            <number>+7(343)541-19-93</number>
+            <info>справка</info>
+            <type>phone</type>
+        </phone>
+        <phone>
+            <type>phone</type>
+            <number>+7(965)541-19-93</number>
+            <info>касса</info>
+        </phone>
+        </phones>
+        <email>npo@ekazoo.ru</email>
+        <url>http://зоопарк.екатеринбург.рф</url>
+        <working-time lang="ru">будни 10:00-19:00; выходные 10:00-20:00</working-time>
+        //rubric-id рубрика для данного объекта не определена
+        <actualization-date>04.07.2023</actualization-date>
+        <photos>
+        <photo> gallery-url="http://зоопарк.екатеринбург.рф/animals_infos/"></photo>
+        </photos>
+        <coordinates>
+            <lon>56.832923</lon>
+            <lat>60.620674</lat>
+        </coordinates>
+    </company>
+
+    <company>
+        <company-id>146807868650</company-id>
+        <name lang="ru">Океанариум №1</name>
+        <address lang="ru">г. Москва, Дмитровское шоссе, д. 163А</address>
+        <country lang="ru">Россия</country>
+        <phone>
+            <type>phone</type>
+            <number>+7(495)968-30-18</number>
+            <info>администратор</info>
+        </phone>
+        <email>oceanadmin@oceanariumrio.ru</email>
+        <url>http://www.oceanariumrio.ru</url>
+        <working-time lang="ru">ежедневно 10:00-22:00</working-time>
+        //rubric-id рубрика для данного объекта не определена
+        <actualization-date>04.07.2023</actualization-date>
+        <photos>
+            <photo> gallery-url="http://зоопарк.екатеринбург.рф/animals_infos/"></photo>
+        </photos>
+        <coordinates>
+            <lon>55.910665</lon>
+            <lat>37.542632</lat>
+        </coordinates>
+    </company>
+
+</companies>
